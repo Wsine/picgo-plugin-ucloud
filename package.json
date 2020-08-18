@@ -1,0 +1,20 @@
+{
+  "name": "picgo-plugin-ucloud",
+  "version": "1.0.0",
+  "description": "PicGo plugin for ucloud",
+  "main": "src/index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "homepage": "https://github.com/Wsine/picgo-plugin-ucloud",
+  "keywords": [
+    "picgo",
+    "picgo-plugin"
+  ],
+  "author": "Wsine",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^4.0.0",
+    "mime-types": "^2.1.27"
+  }
+}
